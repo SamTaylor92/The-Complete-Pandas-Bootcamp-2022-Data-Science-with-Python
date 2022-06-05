@@ -11,6 +11,10 @@ href="https://signal.group/#CjQKIO50NLkjJmSisbgDD4OhRj5lHG7X-SJTOl-Dn8Fkc4FpEhCY
 href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <p align="right">
+
+
+## Description
+Project work for the course: [The Complete Pandas Bootcamp 2022: Data Science](https://www.udemy.com/course/the-pandas-bootcamp/).    
   
 ![olympics_heatmap](https://user-images.githubusercontent.com/105542266/172046085-ccd6ab7e-1e51-4bb3-bc2e-4332374b3ca7.png)
 <p align="right"> [Rank of each country's success per sport]</p>
@@ -25,9 +29,20 @@ href="mailto:samtaylor92@live.co.uk" target="_blank"><img alt="Email" src="https
 <a target="_blank"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
-  
-## Description
-Project work for the course: [The Complete Pandas Bootcamp 2022: Data Science](https://www.udemy.com/course/the-pandas-bootcamp/).  
+
+<details>
+<summary> <h2>Table of contents</h2></summary>	
+
+- [Description](#description)
+- [Data aggregation project](#data-aggregation-project)
+  - [Task](#-task-)
+  - [Solution](#solution)
+- [Exploratory data analysis project](#%EF%B8%8Fexploratory-data-analysis-project)
+  - [Task](#-task--1)
+  - [Solution](#solution-1)
+- [Reference material](#reference-material)
+
+</details>
 
 <details open>
 <summary> <h2>🔨Data aggregation project</h2> </summary>
@@ -69,7 +84,8 @@ It tested my ability:
 <summary> <h3>💡[Solution]</h3> </summary>
 
 `Repository:` [(Link)](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python)<br> 
-
+`Notes:` Repository contains the Jupyter notebook and CSV datasets
+  
 <img width="1111" alt="divergence" src="https://user-images.githubusercontent.com/105542266/172053845-2c7d3703-d9b5-4d37-9755-f3240fdca310.png">
 <p align='right'><a href="#-tools" target="_blank">⬆</a></p>	
   
@@ -79,7 +95,7 @@ It tested my ability:
 </details>
 
 <details open>
-<summary> <h2>🕵🏼‍♂️Exploratory data analysis</h2> </summary>
+<summary> <h2>🕵🏼‍♂️Exploratory data analysis project</h2> </summary>
   
 This challenge asked me to apply and combine many concepts regarding `exploratory data analysis` that I learned in the course.
 
@@ -126,7 +142,8 @@ It tested my ability:
 <summary> <h3>💡[Solution]</h3> </summary>
 
 `Repository:` [(Link)](https://github.com/SamTaylor92/The-Complete-Pandas-Bootcamp-2022-Data-Science-with-Python)<br> 
-
+`Notes:` Repository contains the Jupyter notebook and CSV datasets
+  
 <img width="898" alt="summer_versus_winter" src="https://user-images.githubusercontent.com/105542266/172053745-7682e208-1ce2-45c0-9c0f-3b04f721aeb3.png">
 <p align='right'><a href="#-tools" target="_blank">⬆</a></p>	
   
