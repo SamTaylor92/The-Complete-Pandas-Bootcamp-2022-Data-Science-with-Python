@@ -94,6 +94,8 @@ It tested my ability:
 </details>
 </details>
 
+---
+
 <details open>
 <summary> <h2>🕵🏼‍♂️Exploratory data analysis project</h2> </summary>
   
