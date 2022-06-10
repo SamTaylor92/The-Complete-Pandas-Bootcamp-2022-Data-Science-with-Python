@@ -30,7 +30,7 @@ Project work for the course: [The Complete Pandas Bootcamp 2022: Data Science](h
 <a target="_blank"><img alt="scipy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white"/></a>
 </p>
 
-<details>
+<details open>
 <summary> <h2>Table of contents</h2></summary>	
 
 - [Description](#description)
